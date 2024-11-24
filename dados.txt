@@ -1,0 +1,4 @@
+Urus_Mansory;1000000;C:\Users\USUARIO\PY\imagem\passarinho.jpg
+Gol_G3;20000;C:\Users\USUARIO\PY\imagem\pinguinho.bmp
+Macan;300000.45;C:\Users\USUARIO\PY\imagem\elefanta.jpg
+Tiger_Triumph;72001;C:\Users\USUARIO\PY\imagem\trigrinho.bmp
